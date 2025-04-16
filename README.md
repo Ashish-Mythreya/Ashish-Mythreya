@@ -11,9 +11,8 @@
 - 💡 Passionate about building intelligent systems and impactful applications  
 - 🌱 Currently exploring **Machine Learning**, **Data Analytics**, and **Cloud Services**  
 - 🚀 I build projects using **MERN Stack**, **Spring Boot**, and **Python**  
-- 💬 Ask me about  **Web Development**, or **OpenCV Projects**  
+- 💬 Ask me about **Web Development** or **OpenCV Projects**  
 - 📫 Reach me at: enagandhulaashishmythreya@gmail.com  
-
 
 ---
 
@@ -56,14 +55,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Mythreya&show_icons=true&theme=github_dark" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=github_dark" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Mythreya&layout=compact&theme=github_dark" height="170px"/>
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashish-mythreya-enagandhula-69953727a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-mythreya-enagandhula-69953727a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=github&logoColor=white)](https://ashish-mythreya.github.io/my-portfolio/)
 
 ---
