@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a 3rd-year Computer Science Engineering student at **Malla Reddy University, Hyderabad**  
+- 🎓 I'm a Final-year Computer Science Engineering student at **Malla Reddy University, Hyderabad**  
 - 💡 Passionate about building intelligent systems and impactful applications  
 - 🌱 Currently exploring **Machine Learning**, **Data Analytics**, and **Cloud Services**  
 - 🚀 I build projects using **MERN Stack**, **Spring Boot**, and **Python**  
